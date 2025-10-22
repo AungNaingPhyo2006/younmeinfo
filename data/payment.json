@@ -1,0 +1,16 @@
+{
+  "payment": [
+    {
+      "id": 1,
+      "paymentName": "Kpay",
+      "ownerName": "Aung Naing Phyo",
+      "accNo": "09762539496"
+    },
+    {
+      "id": 2,
+      "paymentName": "Kpay",
+      "ownerName": "AAS",
+      "accNo": "09784958401"
+    }
+  ]
+}

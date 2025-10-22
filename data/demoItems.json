@@ -1,0 +1,101 @@
+{
+  "demoItems": [
+    {
+      "id": 1,
+      "name": "အိန္ဒိယပါတိက် Indian Bataik(Multicolour)",
+      "price": 25000,
+      "image": "/images/Bataik1.jpg",
+      "stockCount": 8,
+      "description": [
+        "Handcrafted red Bataik shirt with intricate traditional patterns.",
+        "Made from soft, breathable cotton for everyday comfort.",
+        "Designed with elegant multicolor tones for a stylish look."
+      ],
+      "stockStatus": "In Stock"
+    },
+    {
+      "id": 2,
+      "name": "အိန္ဒိယပါတိက် ပွင့်ဖောက် India Bataik",
+      "price": 41500,
+      "image": "/images/Bataik2.jpg",
+      "stockCount": 5,
+      "description": [
+        "Elegant blue Bataik kurta featuring classic Indian motifs.",
+        "Comfortable fabric suitable for all-day wear."
+      ],
+      "stockStatus": "In Stock"
+    },
+    {
+      "id": 3,
+      "name": "အိန္ဒိယပါတိက် India Bataik",
+      "price": 65000,
+      "image": "/images/Bataik3.jpg",
+      "stockCount": 4,
+      "description": [
+        "Vibrant green Bataik dress crafted from premium cotton, perfect for festive occasions.",
+        "Comfortable fabric suitable for all-day wear."
+      ],
+      "stockStatus": "In Stock"
+    },
+    {
+      "id": 4,
+      "name": "အိန္ဒိယပါတိက် ကာလာရင့်  India Bataik",
+      "price": 15000,
+      "image": "/images/Bataik4.jpg",
+      "stockCount": 6,
+      "description": [
+        "Bright color Bataik scarf with traditional Indian designs, lightweight and versatile.",
+        "Comfortable fabric suitable for all-day wear."
+      ],
+      "stockStatus": "In Stock"
+    },
+    {
+      "id": 5,
+      "name": "Indian Bataik(handcrafted patterns)",
+      "price": 87900,
+      "image": "/images/Bataik5.jpg",
+      "stockCount": 8,
+      "description": [
+        "Stylish colorful Indian Bataik  with handcrafted patterns, providing warmth and elegance.",
+        "Comfortable fabric suitable for all-day wear."
+      ],
+      "stockStatus": "Out of Stock"
+    },
+    {
+      "id": 6,
+      "name": "Indian Bataik(Free style)",
+      "price": 33000,
+      "image": "/images/Bataik6.jpg",
+      "stockCount": 7,
+      "description": [
+        "Fashionable Indian Bataik with Barat-inspired frames, combining style with different color.",
+        "Comfortable fabric suitable for all-day wear."
+      ],
+      "stockStatus": "In Stock"
+    },
+    {
+      "id": 7,
+      "name": "အိန္ဒိယလုံချည် Indian Lungi",
+      "price": 22000,
+      "image": "/images/Lungi1.jpg",
+      "stockCount": 3,
+      "description": [
+        "Traditional Indian Lungi made from soft cotton, comfortable for everyday wear.",
+        "Comfortable fabric suitable for all-day wear."
+      ],
+      "stockStatus": "In Stock"
+    },
+    {
+      "id": 8,
+      "name": "အိန္ဒိယလုံချည် Indian Lungi (Multicolour, Free Size)",
+      "price": 22000,
+      "image": "/images/Lungi2.jpg",
+      "stockCount": 2,
+      "description": [
+        "Colorful Indian Lungi, perfect for casual and cultural occasions.",
+        "Comfortable fabric suitable for all-day wear."
+      ],
+      "stockStatus": "In Stock"
+    }
+  ]
+}
