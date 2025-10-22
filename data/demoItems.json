@@ -98,18 +98,6 @@
       "stockStatus": "In Stock"
     },
      {
-      "id": 8,
-      "name": "အိန္ဒိယ အစားအစာ Indian Snacks",
-      "price": 1500,
-      "image": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image8.jpg?raw=true",
-      "stockCount": 50,
-      "description": [
-        "Traditional Indian snack made from soft products, fresh for everyday.",
-        "Enjoy the Indian delicious food ."
-      ],
-      "stockStatus": "In Stock"
-    },
-     {
       "id": 9,
       "name": "အိန္ဒိယ အစားအစာ Indian Snacks",
       "price": 1500,
