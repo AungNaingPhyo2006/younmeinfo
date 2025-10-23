@@ -2,6 +2,7 @@
   "demoItems": [
     {
       "id": 1,
+      "category_id":1,
       "name": "အိန္ဒိယပါတိက် Indian Bataik(Multicolour)",
       "price": 25000,
       "image": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image1.jpg?raw=true",
@@ -21,6 +22,7 @@
     },
     {
       "id": 2,
+      "category_id":1,
       "name": "အိန္ဒိယပါတိက် ပွင့်ဖောက် India Bataik",
       "price": 41500,
       "image": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image2.jpg?raw=true",
@@ -39,6 +41,7 @@
     },
     {
       "id": 3,
+      "category_id":1,
       "name": "အိန္ဒိယပါတိက် India Bataik",
       "price": 65000,
       "image": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image3.jpg?raw=true",
@@ -57,6 +60,7 @@
     },
     {
       "id": 4,
+      "category_id":1,
       "name": "အိန္ဒိယပါတိက် ကာလာရင့်  India Bataik",
       "price": 15000,
       "image": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image4.jpg?raw=true",
@@ -75,6 +79,7 @@
     },
     {
       "id": 5,
+      "category_id":1,
       "name": "Indian Bataik(handcrafted patterns)",
       "price": 87900,
       "image": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image5.jpg?raw=true",
@@ -93,6 +98,7 @@
     },
     {
       "id": 6,
+      "category_id":1,
       "name": "Indian Bataik(Free style)",
       "price": 33000,
       "image": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image6.jpg?raw=true",
@@ -111,6 +117,7 @@
     },
     {
       "id": 7,
+      "category_id":2,
       "name": "အိန္ဒိယလုံချည် Indian Lungi",
       "price": 22000,
       "image": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image7.jpg?raw=true",
@@ -129,6 +136,7 @@
     },
     {
       "id": 8,
+      "category_id":2,
       "name": "အိန္ဒိယလုံချည် Indian Lungi (Multicolour, Free Size)",
       "price": 22000,
       "image": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image8.jpg?raw=true",
@@ -147,6 +155,7 @@
     },
      {
       "id": 9,
+      "category_id":3,
       "name": "အိန္ဒိယ အစားအစာ Indian Snacks",
       "price": 1500,
       "image": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image9.jpg?raw=true",
@@ -165,6 +174,7 @@
     },
      {
       "id": 10,
+      "category_id":3,
       "name": "အိန္ဒိယ အစားအစာ Indian Snacks",
       "price": 1500,
       "image": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image10.jpg?raw=true",
@@ -183,6 +193,7 @@
     },
      {
       "id": 11,
+      "category_id":3,
       "name": "အိန္ဒိယ အစားအစာ Indian Snacks",
       "price": 1500,
       "image": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image11.jpg?raw=true",
@@ -201,6 +212,7 @@
     },
      {
       "id": 12,
+      "category_id":3,
       "name": "အိန္ဒိယ အစားအစာ Indian Snacks",
       "price": 1500,
       "image": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image12.jpg?raw=true",
@@ -219,6 +231,7 @@
     },
      {
       "id": 13,
+      "category_id":3,
       "name": "အိန္ဒိယ အစားအစာ Indian Snacks",
       "price": 1500,
       "image": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image13.jpg?raw=true",
@@ -237,6 +250,7 @@
     },
      {
       "id": 14,
+      "category_id":3,
       "name": "အိန္ဒိယ အစားအစာ Indian Snacks",
       "price": 1500,
       "image": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image14.jpg?raw=true",
@@ -255,6 +269,7 @@
     },
      {
       "id": 15,
+      "category_id":3,
       "name": "အိန္ဒိယ အစားအစာ Indian Snacks",
       "price": 1500,
       "image": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image15.jpg?raw=true",
@@ -273,6 +288,7 @@
     },
      {
       "id": 16,
+      "category_id":3,
       "name": "အိန္ဒိယ အစားအစာ Indian Snacks",
       "price": 1500,
       "image": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image16.jpg?raw=true",
@@ -291,6 +307,7 @@
     },
      {
       "id": 17,
+      "category_id":3,
       "name": "အိန္ဒိယ အစားအစာ Indian Snacks",
       "price": 1500,
       "image": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image17.jpg?raw=true",
