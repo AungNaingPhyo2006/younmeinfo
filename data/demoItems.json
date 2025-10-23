@@ -15,8 +15,8 @@
       "stockStatus": "In Stock",
       "isStockStatus": true,
       "isTopSale": true,
-      "isCheapSale": true,
-      "isDiscount": true,
+      "isCheapSale": false,
+      "isDiscount": false,
       "beforePrice": null,
       "isNewProduct": true
     },
@@ -34,10 +34,10 @@
       "stockStatus": "In Stock",
       "isStockStatus": true,
       "isTopSale": true,
-      "isCheapSale": true,
-      "isDiscount": true,
+      "isCheapSale": false,
+      "isDiscount": false,
       "beforePrice": null,
-      "isNewProduct": true
+      "isNewProduct": false
     },
     {
       "id": 3,
@@ -52,8 +52,8 @@
       ],
       "stockStatus": "In Stock",
       "isStockStatus": true,
-      "isTopSale": true,
-      "isCheapSale": true,
+      "isTopSale": false,
+      "isCheapSale": false,
       "isDiscount": true,
       "beforePrice": null,
       "isNewProduct": true
@@ -71,11 +71,11 @@
       ],
       "stockStatus": "In Stock",
       "isStockStatus": true,
-      "isTopSale": true,
+      "isTopSale": false,
       "isCheapSale": true,
       "isDiscount": true,
-      "beforePrice": null,
-      "isNewProduct": true
+      "beforePrice": 20000,
+      "isNewProduct": false
     },
     {
       "id": 5,
@@ -90,9 +90,9 @@
       ],
       "stockStatus": "Out of Stock",
       "isStockStatus": false,
-      "isTopSale": true,
-      "isCheapSale": true,
-      "isDiscount": true,
+      "isTopSale": false,
+      "isCheapSale": false,
+      "isDiscount": false,
       "beforePrice": null,
       "isNewProduct": true
     },
@@ -109,11 +109,11 @@
       ],
       "stockStatus": "In Stock",
       "isStockStatus": true,
-      "isTopSale": true,
-      "isCheapSale": true,
+      "isTopSale": false,
+      "isCheapSale": false,
       "isDiscount": true,
-      "beforePrice": null,
-      "isNewProduct": true
+      "beforePrice": 40000,
+      "isNewProduct": false
     },
     {
       "id": 7,
@@ -129,8 +129,8 @@
       "stockStatus": "In Stock",
       "isStockStatus": true,
       "isTopSale": true,
-      "isCheapSale": true,
-      "isDiscount": true,
+      "isCheapSale": false,
+      "isDiscount": false,
       "beforePrice": null,
       "isNewProduct": true
     },
@@ -147,11 +147,11 @@
       ],
       "stockStatus": "In Stock",
       "isStockStatus": true,
-      "isTopSale": true,
+      "isTopSale": false,
       "isCheapSale": true,
-      "isDiscount": true,
+      "isDiscount": false,
       "beforePrice": null,
-      "isNewProduct": true
+      "isNewProduct": false
     },
      {
       "id": 9,
@@ -167,10 +167,10 @@
       "stockStatus": "In Stock",
       "isStockStatus": true,
       "isTopSale": true,
-      "isCheapSale": true,
-      "isDiscount": true,
+      "isCheapSale": false,
+      "isDiscount": false,
       "beforePrice": null,
-      "isNewProduct": true
+      "isNewProduct": false
     },
      {
       "id": 10,
@@ -187,9 +187,9 @@
       "isStockStatus": true,
       "isTopSale": true,
       "isCheapSale": true,
-      "isDiscount": true,
+      "isDiscount": false,
       "beforePrice": null,
-      "isNewProduct": true
+      "isNewProduct": false
     },
      {
       "id": 11,
@@ -206,9 +206,9 @@
       "isStockStatus": true,
       "isTopSale": true,
       "isCheapSale": true,
-      "isDiscount": true,
+      "isDiscount": false,
       "beforePrice": null,
-      "isNewProduct": true
+      "isNewProduct": false
     },
      {
       "id": 12,
@@ -225,9 +225,9 @@
       "isStockStatus": true,
       "isTopSale": true,
       "isCheapSale": true,
-      "isDiscount": true,
+      "isDiscount": false,
       "beforePrice": null,
-      "isNewProduct": true
+      "isNewProduct": false
     },
      {
       "id": 13,
@@ -242,11 +242,11 @@
       ],
       "stockStatus": "In Stock",
       "isStockStatus": true,
-      "isTopSale": true,
+      "isTopSale": false,
       "isCheapSale": true,
-      "isDiscount": true,
+      "isDiscount": false,
       "beforePrice": null,
-      "isNewProduct": true
+      "isNewProduct": false
     },
      {
       "id": 14,
@@ -263,9 +263,9 @@
       "isStockStatus": true,
       "isTopSale": true,
       "isCheapSale": true,
-      "isDiscount": true,
+      "isDiscount": false,
       "beforePrice": null,
-      "isNewProduct": true
+      "isNewProduct": false
     },
      {
       "id": 15,
@@ -282,7 +282,7 @@
       "isStockStatus": true,
       "isTopSale": true,
       "isCheapSale": true,
-      "isDiscount": true,
+      "isDiscount": false,
       "beforePrice": null,
       "isNewProduct": true
     },
@@ -300,10 +300,10 @@
       "stockStatus": "In Stock",
       "isStockStatus": true,
       "isTopSale": true,
-      "isCheapSale": true,
-      "isDiscount": true,
+      "isCheapSale": false,
+      "isDiscount": false,
       "beforePrice": null,
-      "isNewProduct": true
+      "isNewProduct": false
     },
      {
       "id": 17,
@@ -320,9 +320,9 @@
       "isStockStatus": true,
       "isTopSale": true,
       "isCheapSale": true,
-      "isDiscount": true,
+      "isDiscount": false,
       "beforePrice": null,
-      "isNewProduct": true
+      "isNewProduct": false
     }
   ]
 }
