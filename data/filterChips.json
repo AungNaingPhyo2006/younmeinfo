@@ -1,5 +1,7 @@
 {
   "chips": [
+    { "id": "all", "label": "အားလုံး", "key": null },
+    { "id": "topSale", "label": "လူကြိုက်အများဆုံး", "key": "isTopSale" },
     { "id": "topSale", "label": "လူကြိုက်အများဆုံး", "key": "isTopSale" },
     { "id": "cheapSale", "label": "စျေးအချိုဆုံး", "key": "isCheapSale" },
     { "id": "discount", "label": "လျှော့စျေးပေါ့စျေး", "key": "isDiscount" },
