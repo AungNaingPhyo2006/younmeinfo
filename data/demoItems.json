@@ -148,7 +148,7 @@
       "stockStatus": "In Stock",
       "isStockStatus": true,
       "isTopSale": false,
-      "isCheapSale": true,
+      "isCheapSale": false,
       "isDiscount": false,
       "beforePrice": null,
       "isNewProduct": false
