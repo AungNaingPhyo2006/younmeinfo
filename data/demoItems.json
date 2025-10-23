@@ -12,7 +12,6 @@
         "Made from soft, breathable cotton for everyday comfort.",
         "Designed with elegant multicolor tones for a stylish look."
       ],
-      "stockStatus": "In Stock",
       "isStockStatus": true,
       "isTopSale": true,
       "isCheapSale": false,
@@ -31,7 +30,6 @@
         "Elegant blue Bataik kurta featuring classic Indian motifs.",
         "Comfortable fabric suitable for all-day wear."
       ],
-      "stockStatus": "In Stock",
       "isStockStatus": true,
       "isTopSale": true,
       "isCheapSale": false,
@@ -50,7 +48,6 @@
         "Vibrant green Bataik dress crafted from premium cotton, perfect for festive occasions.",
         "Comfortable fabric suitable for all-day wear."
       ],
-      "stockStatus": "In Stock",
       "isStockStatus": true,
       "isTopSale": false,
       "isCheapSale": false,
@@ -69,7 +66,6 @@
         "Bright color Bataik scarf with traditional Indian designs, lightweight and versatile.",
         "Comfortable fabric suitable for all-day wear."
       ],
-      "stockStatus": "In Stock",
       "isStockStatus": true,
       "isTopSale": false,
       "isCheapSale": true,
@@ -88,7 +84,6 @@
         "Stylish colorful Indian Bataik  with handcrafted patterns, providing warmth and elegance.",
         "Comfortable fabric suitable for all-day wear."
       ],
-      "stockStatus": "Out of Stock",
       "isStockStatus": false,
       "isTopSale": false,
       "isCheapSale": false,
@@ -107,7 +102,6 @@
         "Fashionable Indian Bataik with Barat-inspired frames, combining style with different color.",
         "Comfortable fabric suitable for all-day wear."
       ],
-      "stockStatus": "In Stock",
       "isStockStatus": true,
       "isTopSale": false,
       "isCheapSale": false,
@@ -126,7 +120,6 @@
         "Traditional Indian Lungi made from soft cotton, comfortable for everyday wear.",
         "Comfortable fabric suitable for all-day wear."
       ],
-      "stockStatus": "In Stock",
       "isStockStatus": true,
       "isTopSale": true,
       "isCheapSale": false,
@@ -145,8 +138,7 @@
         "Colorful Indian Lungi, perfect for casual and cultural occasions.",
         "Comfortable fabric suitable for all-day wear."
       ],
-      "stockStatus": "In Stock",
-      "isStockStatus": true,
+      "isStockStatus": false,
       "isTopSale": false,
       "isCheapSale": false,
       "isDiscount": false,
@@ -164,8 +156,7 @@
         "Traditional Indian snack made from soft products, fresh for everyday.",
         "Enjoy the Indian delicious food ."
       ],
-      "stockStatus": "In Stock",
-      "isStockStatus": true,
+      "isStockStatus": false,
       "isTopSale": true,
       "isCheapSale": false,
       "isDiscount": false,
@@ -183,7 +174,6 @@
         "Traditional Indian snack made from soft products, fresh for everyday.",
         "Enjoy the Indian delicious food ."
       ],
-      "stockStatus": "In Stock",
       "isStockStatus": true,
       "isTopSale": true,
       "isCheapSale": true,
@@ -202,7 +192,6 @@
         "Traditional Indian snack made from soft products, fresh for everyday.",
         "Enjoy the Indian delicious food ."
       ],
-      "stockStatus": "In Stock",
       "isStockStatus": true,
       "isTopSale": true,
       "isCheapSale": true,
@@ -221,7 +210,6 @@
         "Traditional Indian snack made from soft products, fresh for everyday.",
         "Enjoy the Indian delicious food ."
       ],
-      "stockStatus": "In Stock",
       "isStockStatus": true,
       "isTopSale": true,
       "isCheapSale": true,
@@ -240,7 +228,6 @@
         "Traditional Indian snack made from soft products, fresh for everyday.",
         "Enjoy the Indian delicious food ."
       ],
-      "stockStatus": "In Stock",
       "isStockStatus": true,
       "isTopSale": false,
       "isCheapSale": true,
@@ -259,7 +246,6 @@
         "Traditional Indian snack made from soft products, fresh for everyday.",
         "Enjoy the Indian delicious food ."
       ],
-      "stockStatus": "In Stock",
       "isStockStatus": true,
       "isTopSale": true,
       "isCheapSale": true,
@@ -278,7 +264,6 @@
         "Traditional Indian snack made from soft products, fresh for everyday.",
         "Enjoy the Indian delicious food ."
       ],
-      "stockStatus": "In Stock",
       "isStockStatus": true,
       "isTopSale": true,
       "isCheapSale": true,
@@ -297,8 +282,7 @@
         "Traditional Indian snack made from soft products, fresh for everyday.",
         "Enjoy the Indian delicious food ."
       ],
-      "stockStatus": "In Stock",
-      "isStockStatus": true,
+      "isStockStatus": false,
       "isTopSale": true,
       "isCheapSale": false,
       "isDiscount": false,
@@ -316,7 +300,6 @@
         "Traditional Indian snack made from soft products, fresh for everyday.",
         "Enjoy the Indian delicious food ."
       ],
-      "stockStatus": "In Stock",
       "isStockStatus": true,
       "isTopSale": true,
       "isCheapSale": true,
