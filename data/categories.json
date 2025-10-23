@@ -2,32 +2,15 @@
   "categories": [
     {
       "id": 1,
-      "name": "Bataik",
-      "items": [
-        "အိန္ဒိယပါတိက် Indian Bataik(Multicolour)",
-        "အိန္ဒိယပါတိက် ပွင့်ဖောက် India Bataik",
-        "အိန္ဒိယပါတိက် India Bataik",
-        "အိန္ဒိယပါတိက် ကာလာရင့် India Bataik",
-        "Indian Bataik(handcrafted patterns)",
-        "Indian Bataik(Free style)"
-      ]
+      "name": "Bataik"
     },
     {
       "id": 2,
-      "name": "Lungi",
-      "items": [
-        "အိန္ဒိယလုံချည် Indian Lungi",
-        "အိန္ဒိယလုံချည် Indian Lungi (Multicolour, Free Size)"
-      ]
+      "name": "Lungi"
     },
     {
       "id": 3,
-      "name": "Snacks",
-      "items": [
-        "အိန္ဒိယ အစားအစာ Indian Snacks",
-        "Indian Snacks",
-        "အိန္ဒိယ အစားအစာ"
-      ]
+      "name": "Snacks"
     }
   ]
 }
