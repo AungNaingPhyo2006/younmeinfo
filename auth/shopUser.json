@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "userName": "Aung Naing Phyo",
+      "password": "aung12399",
+      "roleName": "admin",
+      "isBanned": false
+    },
+    {
+      "id": 2,
+      "userName": "AAS",
+      "password": "aas12399",
+      "roleName": "user",
+      "isBanned": false
+    }
+  ]
+}
