@@ -3,14 +3,21 @@
     {
       "id": 1,
       "userName": "Aung Naing Phyo",
-      "password": "aung12399",
+      "password": "aung123",
       "roleName": "admin",
-      "isBanned": false
+      "isBanned": true
     },
     {
       "id": 2,
       "userName": "AAS",
-      "password": "aas12399",
+      "password": "aas123",
+      "roleName": "user",
+      "isBanned": false
+    },
+    {
+      "id": 3,
+      "userName": "ANP",
+      "password": "anp123",
       "roleName": "user",
       "isBanned": false
     }
