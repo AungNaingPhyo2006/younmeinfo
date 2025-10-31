@@ -12,21 +12,21 @@
       "userName": "AAS",
       "password": "aas123",
       "roleName": "user",
-      "isBanned": true
+      "isBanned": false
     },
     {
       "id": 3,
       "userName": "ANP",
       "password": "anp123",
       "roleName": "user",
-      "isBanned": true
+      "isBanned": false
     },
     {
       "id": 4,
       "userName": "user1",
       "password": "user@123",
       "roleName": "user",
-      "isBanned": false
+      "isBanned": true
     }
   ]
 }
