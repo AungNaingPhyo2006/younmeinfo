@@ -12,7 +12,7 @@
       "userName": "AAS",
       "password": "aas123",
       "roleName": "user",
-      "isBanned": false
+      "isBanned": true
     },
     {
       "id": 3,
