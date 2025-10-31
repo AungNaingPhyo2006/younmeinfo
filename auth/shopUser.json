@@ -27,6 +27,20 @@
       "password": "user@123",
       "roleName": "user",
       "isBanned": true
+    },
+    {
+      "id": 5,
+      "userName": "user2",
+      "password": "user2@123",
+      "roleName": "user",
+      "isBanned": true
+    },
+    {
+      "id": 6,
+      "userName": "user3",
+      "password": "user3@123",
+      "roleName": "user",
+      "isBanned": true
     }
   ]
 }
