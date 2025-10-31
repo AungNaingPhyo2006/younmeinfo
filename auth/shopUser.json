@@ -5,7 +5,7 @@
       "userName": "Aung Naing Phyo",
       "password": "anp123",
       "roleName": "admin",
-      "isBanned": false
+      "isBanned": true
     },
     {
       "id": 2,
