@@ -3,8 +3,8 @@
     {
       "id": 1,
       "category_id": 1,
-      "name": "အိန္ဒိယပါတိက် Indian Bataik(Multicolour)",
-      "price": 25000,
+      "name": "အိန္ဒိယပါတိက် Indian Bataik(Multicolour) တမူးထည်",
+      "price": 24999,
       "image": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image1.jpg?raw=true",
       "stockCount": 8,
       "description": [
@@ -15,15 +15,15 @@
       "isStockStatus": true,
       "isTopSale": true,
       "isCheapSale": false,
-      "isDiscount": false,
+      "isDiscount": true,
       "beforePrice": null,
       "isNewProduct": true
     },
     {
       "id": 2,
       "category_id": 1,
-      "name": "အိန္ဒိယပါတိက် ပွင့်ဖောက် India Bataik",
-      "price": 41500,
+      "name": "အိန္ဒိယပါတိက် ပွင့်ဖောက် India Bataik တမူးထည်",
+      "price": 41499,
       "image": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image2.jpg?raw=true",
       "stockCount": 5,
       "description": [
@@ -40,8 +40,8 @@
     {
       "id": 3,
       "category_id": 1,
-      "name": "အိန္ဒိယပါတိက် India Bataik",
-      "price": 65000,
+      "name": "အိန္ဒိယပါတိက် India Bataik တမူးထည်",
+      "price": 65001,
       "image": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image3.jpg?raw=true",
       "stockCount": 4,
       "description": [
