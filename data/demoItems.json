@@ -306,6 +306,20 @@
       "isDiscount": false,
       "beforePrice": null,
       "isNewProduct": false
+    },
+    {
+      "id": 18,
+      "category_id": 3,
+      "name": "sweet",
+      "price": 1200,
+      "beforePrice": "",
+      "stockCount": 30,
+      "image": "",
+      "isTopSale": true,
+      "isDiscount": false,
+      "isStockStatus": true,
+      "isCheapSale": true,
+      "isNewProduct": true
     }
   ]
 }
