@@ -3,7 +3,7 @@
     {
       "id": 1,
       "category_id": 1,
-      "name": "အိန္ဒိယပါတိက် Indian Bataik(Multicolour) တမူးထည် ရှယ်",
+      "name": "တမူးထည်  Indian Bataik(Multicolour) ",
       "price": 24999,
       "image": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image1.jpg?raw=true",
       "stockCount": 8,
@@ -22,7 +22,7 @@
     {
       "id": 2,
       "category_id": 1,
-      "name": "အိန္ဒိယပါတိက် ပွင့်ဖောက် India Bataik တမူးထည်",
+      "name": "တမူးထည်ပွင့်ဖောက် India Bataik ",
       "price": 41499,
       "image": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image2.jpg?raw=true",
       "stockCount": 5,
@@ -40,7 +40,7 @@
     {
       "id": 3,
       "category_id": 1,
-      "name": "အိန္ဒိယပါတိက် India Bataik တမူးထည်",
+      "name": "တမူးထည် India Bataik ",
       "price": 65000,
       "image": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image3.jpg?raw=true",
       "stockCount": 4,
@@ -58,7 +58,7 @@
     {
       "id": 4,
       "category_id": 1,
-      "name": "အိန္ဒိယပါတိက် ကာလာရင့်  India Bataik",
+      "name": "တမူးထည်ကာလာရင့်  India Bataik",
       "price": 15000,
       "image": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image4.jpg?raw=true",
       "stockCount": 6,
@@ -76,7 +76,7 @@
     {
       "id": 5,
       "category_id": 1,
-      "name": "Indian Bataik(handcrafted patterns)",
+      "name": "တမူးထည် Bataik(handcrafted patterns)",
       "price": 87900,
       "image": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image5.jpg?raw=true",
       "stockCount": 8,
@@ -94,7 +94,7 @@
     {
       "id": 6,
       "category_id": 1,
-      "name": "Indian Bataik(Free style)",
+      "name": "တမူးထည် Bataik(Free style)",
       "price": 33000,
       "image": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image6.jpg?raw=true",
       "stockCount": 7,
@@ -112,7 +112,7 @@
     {
       "id": 7,
       "category_id": 2,
-      "name": "အိန္ဒိယလုံချည် Indian Lungi",
+      "name": "တမူးထည်အိန္ဒိယလုံချည် Indian Lungi",
       "price": 22000,
       "image": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image7.jpg?raw=true",
       "stockCount": 3,
@@ -130,7 +130,7 @@
     {
       "id": 8,
       "category_id": 2,
-      "name": "အိန္ဒိယလုံချည် Indian Lungi (Multicolour, Free Size)",
+      "name": "တမူးထည်အိန္ဒိယလုံချည် Indian Lungi (Multicolour, Free Size)",
       "price": 22000,
       "image": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image8.jpg?raw=true",
       "stockCount": 2,
