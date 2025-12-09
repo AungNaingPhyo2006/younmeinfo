@@ -2,7 +2,7 @@
   "payment": [
     {
       "id": 1,
-      "paymentName": "KBZ pay",
+      "paymentName": "Kpay",
       "ownerName": "Aung Naing Phyo",
       "accNo": "09762539496"
     },
@@ -11,6 +11,12 @@
       "paymentName": "Kpay",
       "ownerName": "AAS",
       "accNo": "09784958401"
+    },
+    {
+      "id": 3,
+      "paymentName": "Trusty Pay",
+      "ownerName": "Aung Naing Phyo",
+      "accNo": "09762539496"
     }
   ]
 }
