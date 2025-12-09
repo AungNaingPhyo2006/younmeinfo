@@ -2,13 +2,13 @@
   "payment": [
     {
       "id": 1,
-      "paymentName": "Kpay",
+      "paymentName": "KBZ pay",
       "ownerName": "Aung Naing Phyo",
       "accNo": "09762539496"
     },
     {
       "id": 2,
-      "paymentName": "KBZ pay",
+      "paymentName": "Kpay",
       "ownerName": "AAS",
       "accNo": "09784958401"
     }
