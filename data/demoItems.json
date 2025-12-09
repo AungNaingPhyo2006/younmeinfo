@@ -319,7 +319,11 @@
       "isDiscount": false,
       "isStockStatus": true,
       "isCheapSale": true,
-      "isNewProduct": true
+      "isNewProduct": true,
+      "description": [
+        "အကောင်းဆုံး မုန့်ချို",
+        "ကလေးကြိုက် လူကြီးစားကောင်း"
+      ]
     }
   ]
 }
