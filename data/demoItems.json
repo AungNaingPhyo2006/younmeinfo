@@ -149,7 +149,7 @@
       "id": 9,
       "category_id": 3,
       "name": "ဂျလေဘီ Indian Snacks",
-      "price": 25500,
+      "price": 20000,
       "image": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image9.jpg?raw=true",
       "stockCount": 50,
       "description": [
@@ -159,13 +159,13 @@
       "isStockStatus": false,
       "isTopSale": true,
       "isCheapSale": false,
-      "isDiscount": false,
-      "beforePrice": null,
+      "isDiscount": true,
+      "beforePrice": 25500,
       "isNewProduct": false
     },
     {
       "id": 10,
-      "category_id": 2,
+      "category_id": 3,
       "name": "စမူဆာ  Indian Snacks",
       "price": 2500,
       "image": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image10.jpg?raw=true",
