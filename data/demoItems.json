@@ -184,7 +184,7 @@
     {
       "id": 11,
       "category_id": 3,
-      "name": "အိန္ဒိယ အစားအစာ Indian Snacks",
+      "name": "မလိုင်လုံး Indian Snacks",
       "price": 2500,
       "image": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image11.jpg?raw=true",
       "stockCount": 50,
@@ -202,7 +202,7 @@
     {
       "id": 12,
       "category_id": 3,
-      "name": "အိန္ဒိယ အစားအစာ Indian Snacks",
+      "name": "အကြော်စုံ Indian Snacks",
       "price": 2500,
       "image": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image12.jpg?raw=true",
       "stockCount": 50,
@@ -220,7 +220,7 @@
     {
       "id": 13,
       "category_id": 3,
-      "name": "အိန္ဒိယ အစားအစာ Indian Snacks",
+      "name": "ဒိန်ချဉ် Indian Snacks",
       "price": 2500,
       "image": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image13.jpg?raw=true",
       "stockCount": 50,
@@ -238,7 +238,7 @@
     {
       "id": 14,
       "category_id": 3,
-      "name": "အိန္ဒိယ အစားအစာ Indian Snacks",
+      "name": "ပဲချောင်းကြော် Indian Snacks",
       "price": 2500,
       "image": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image14.jpg?raw=true",
       "stockCount": 50,
@@ -256,7 +256,7 @@
     {
       "id": 15,
       "category_id": 3,
-      "name": "အိန္ဒိယ အစားအစာ Indian Snacks",
+      "name": "တိုရှည်  Indian Snacks",
       "price": 2500,
       "image": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image15.jpg?raw=true",
       "stockCount": 50,
@@ -274,7 +274,7 @@
     {
       "id": 16,
       "category_id": 3,
-      "name": "အိန္ဒိယ အစားအစာ Indian Snacks",
+      "name": "စမူဆာ အစာသွပ် Indian Snacks",
       "price": 2500,
       "image": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image16.jpg?raw=true",
       "stockCount": 50,
@@ -292,7 +292,7 @@
     {
       "id": 17,
       "category_id": 3,
-      "name": "အိန္ဒိယ အစားအစာ Indian Snacks",
+      "name": "စမူဆာ အကိတ် Indian Snacks",
       "price": 2500,
       "image": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image17.jpg?raw=true",
       "stockCount": 50,
