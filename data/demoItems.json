@@ -324,6 +324,24 @@
         "အကောင်းဆုံး မုန့်ချို",
         "ကလေးကြိုက် လူကြီးစားကောင်း"
       ]
+    },
+    {
+      "id": 19,
+      "category_id": 3,
+      "name": "ချပါတီ",
+      "price": 1000,
+      "beforePrice": null,
+      "stockCount": 19,
+      "image": "",
+      "description": [
+        "အကောင်းဆုံး ချပါတီ",
+        "ပဲဟင်း အပါ"
+      ],
+      "isTopSale": false,
+      "isDiscount": false,
+      "isStockStatus": true,
+      "isCheapSale": true,
+      "isNewProduct": true
     }
   ]
 }
