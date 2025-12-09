@@ -147,8 +147,8 @@
     },
     {
       "id": 9,
-      "category_id": 2,
-      "name": "အိန္ဒိယ လုံချည် Indian Snacks",
+      "category_id": 3,
+      "name": "ဂျလေဘီ Indian Snacks",
       "price": 25500,
       "image": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image9.jpg?raw=true",
       "stockCount": 50,
@@ -166,8 +166,8 @@
     {
       "id": 10,
       "category_id": 2,
-      "name": "အိန္ဒိယတမူးထည် Indian Snacks",
-      "price": 25001,
+      "name": "စမူဆာ  Indian Snacks",
+      "price": 2500,
       "image": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image10.jpg?raw=true",
       "stockCount": 50,
       "description": [
