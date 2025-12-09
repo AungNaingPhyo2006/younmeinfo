@@ -41,7 +41,7 @@
       "id": 3,
       "category_id": 1,
       "name": "အိန္ဒိယပါတိက် India Bataik တမူးထည်",
-      "price": 65001,
+      "price": 65000,
       "image": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image3.jpg?raw=true",
       "stockCount": 4,
       "description": [
@@ -185,7 +185,7 @@
       "id": 11,
       "category_id": 3,
       "name": "အိန္ဒိယ အစားအစာ Indian Snacks",
-      "price": 2501,
+      "price": 2500,
       "image": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image11.jpg?raw=true",
       "stockCount": 50,
       "description": [
@@ -203,7 +203,7 @@
       "id": 12,
       "category_id": 3,
       "name": "အိန္ဒိယ အစားအစာ Indian Snacks",
-      "price": 2502,
+      "price": 2500,
       "image": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image12.jpg?raw=true",
       "stockCount": 50,
       "description": [
@@ -221,7 +221,7 @@
       "id": 13,
       "category_id": 3,
       "name": "အိန္ဒိယ အစားအစာ Indian Snacks",
-      "price": 2501,
+      "price": 2500,
       "image": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image13.jpg?raw=true",
       "stockCount": 50,
       "description": [
