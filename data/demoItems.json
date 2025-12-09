@@ -149,7 +149,7 @@
       "id": 9,
       "category_id": 2,
       "name": "အိန္ဒိယ လုံချည် Indian Snacks",
-      "price": 25499,
+      "price": 25500,
       "image": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image9.jpg?raw=true",
       "stockCount": 50,
       "description": [
@@ -165,9 +165,9 @@
     },
     {
       "id": 10,
-      "category_id": 3,
-      "name": "အိန္ဒိယ အစားအစာ Indian Snacks",
-      "price": 2500,
+      "category_id": 2,
+      "name": "အိန္ဒိယတမူးထည် Indian Snacks",
+      "price": 25001,
       "image": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image10.jpg?raw=true",
       "stockCount": 50,
       "description": [
