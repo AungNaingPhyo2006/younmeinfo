@@ -11,6 +11,12 @@
       "paymentName": "Kpay",
       "ownerName": "AAS",
       "accNo": "09784958401"
+    },
+    {
+      "id": 3,
+      "paymentName": "CB Pay",
+      "ownerName": "ANP",
+      "accNo": "002572959245945844"
     }
   ]
 }
