@@ -275,7 +275,7 @@
       "id": 16,
       "category_id": 3,
       "name": "စမူဆာ အစာသွပ် Indian Snacks",
-      "price": 2500,
+      "price": 2000,
       "image": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image16.jpg?raw=true",
       "stockCount": 50,
       "description": [
@@ -285,8 +285,8 @@
       "isStockStatus": false,
       "isTopSale": true,
       "isCheapSale": false,
-      "isDiscount": false,
-      "beforePrice": null,
+      "isDiscount": true,
+      "beforePrice": 2500,
       "isNewProduct": false
     },
     {
