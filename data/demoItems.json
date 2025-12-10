@@ -314,7 +314,7 @@
       "price": 1200,
       "beforePrice": "",
       "stockCount": 30,
-      "image": "",
+      "image": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/defaultImage.png",
       "isTopSale": true,
       "isDiscount": false,
       "isStockStatus": true,
