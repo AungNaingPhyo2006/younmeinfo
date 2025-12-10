@@ -14,11 +14,15 @@
     },
     {
       "id": 4,
-      "name": "kitchen Products"
+      "name": "kitchen"
     },
     {
       "id": 5,
       "name": "Hotel Accessories"
+    },
+    {
+      "id": 6,
+      "name": "Baby Care"
     }
   ]
 }
