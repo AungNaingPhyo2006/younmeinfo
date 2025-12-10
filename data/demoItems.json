@@ -342,10 +342,6 @@
       "isStockStatus": true,
       "isCheapSale": true,
       "isNewProduct": true
-    },
-    {
-      "id": 20,
-      "name": "Kitchen"
     }
   ]
 }
