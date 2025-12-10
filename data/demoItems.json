@@ -3,7 +3,7 @@
     {
       "id": 1,
       "category_id": 1,
-      "name": "တမူးထည်  Indian Bataik(Multicolour) ",
+      "name": "တမူးထည်(Multicolour)",
       "price": 24999,
       "image": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image1.jpg?raw=true",
       "stockCount": 8,
@@ -22,7 +22,7 @@
     {
       "id": 2,
       "category_id": 1,
-      "name": "တမူးထည်ပွင့်ဖောက် India Bataik ",
+      "name": "တမူးထည်ပွင့်ဖောက်",
       "price": 41499,
       "image": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image2.jpg?raw=true",
       "stockCount": 5,
@@ -40,7 +40,7 @@
     {
       "id": 3,
       "category_id": 1,
-      "name": "တမူးထည် ကာလာနု India Bataik ",
+      "name": "တမူးထည် ကာလာနု",
       "price": 65000,
       "image": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image3.jpg?raw=true",
       "stockCount": 4,
@@ -58,7 +58,7 @@
     {
       "id": 4,
       "category_id": 1,
-      "name": "တမူးထည်ကာလာရင့်  India Bataik",
+      "name": "တမူးထည်ကာလာရင့်",
       "price": 15000,
       "image": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image4.jpg?raw=true",
       "stockCount": 6,
@@ -148,7 +148,7 @@
     {
       "id": 9,
       "category_id": 3,
-      "name": "ဂျလေဘီ Indian Snacks",
+      "name": "ဂျလေဘီ",
       "price": 25500,
       "image": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image9.jpg?raw=true",
       "stockCount": 50,
@@ -166,7 +166,7 @@
     {
       "id": 10,
       "category_id": 2,
-      "name": "စမူဆာ  Indian Snacks",
+      "name": "စမူဆာ",
       "price": 2500,
       "image": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image10.jpg?raw=true",
       "stockCount": 50,
@@ -184,7 +184,7 @@
     {
       "id": 11,
       "category_id": 3,
-      "name": "မလိုင်လုံး Indian Snacks",
+      "name": "မလိုင်လုံး",
       "price": 2500,
       "image": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image11.jpg?raw=true",
       "stockCount": 50,
@@ -202,7 +202,7 @@
     {
       "id": 12,
       "category_id": 3,
-      "name": "အကြော်စုံ Indian Snacks",
+      "name": "အကြော်စုံ",
       "price": 2500,
       "image": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image12.jpg?raw=true",
       "stockCount": 50,
@@ -238,7 +238,7 @@
     {
       "id": 14,
       "category_id": 3,
-      "name": "ပဲချောင်းကြော် Indian Snacks",
+      "name": "ပဲချောင်းကြော်",
       "price": 2500,
       "image": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image14.jpg?raw=true",
       "stockCount": 50,
@@ -256,7 +256,7 @@
     {
       "id": 15,
       "category_id": 3,
-      "name": "တိုရှည်  Indian Snacks",
+      "name": "တိုရှည်",
       "price": 2500,
       "image": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image15.jpg?raw=true",
       "stockCount": 50,
@@ -274,7 +274,7 @@
     {
       "id": 16,
       "category_id": 3,
-      "name": "စမူဆာ အစာသွပ် Indian Snacks",
+      "name": "စမူဆာ အစာသွပ်",
       "price": 2000,
       "image": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image16.jpg?raw=true",
       "stockCount": 50,
@@ -292,7 +292,7 @@
     {
       "id": 17,
       "category_id": 3,
-      "name": "စမူဆာ အကိတ် Indian Snacks",
+      "name": "စမူဆာ အကိတ်",
       "price": 2500,
       "image": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image17.jpg?raw=true",
       "stockCount": 50,
@@ -310,7 +310,7 @@
     {
       "id": 18,
       "category_id": 3,
-      "name": "Sweet မလိုင်",
+      "name": "မလိုင်",
       "price": 1200,
       "beforePrice": "",
       "stockCount": 30,
