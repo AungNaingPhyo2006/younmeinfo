@@ -282,7 +282,7 @@
         "Traditional Indian snack made from soft products, fresh for everyday.",
         "Enjoy the Indian delicious food ."
       ],
-      "isStockStatus": false,
+      "isStockStatus": true,
       "isTopSale": true,
       "isCheapSale": false,
       "isDiscount": true,
