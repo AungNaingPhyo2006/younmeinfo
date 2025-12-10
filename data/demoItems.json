@@ -342,6 +342,25 @@
       "isStockStatus": true,
       "isCheapSale": true,
       "isNewProduct": true
+    },
+    {
+      "id": 20,
+      "category_id": 6,
+      "name": "Powder",
+      "price": 45000,
+      "beforePrice": null,
+      "stockCount": 30,
+      "image": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/defaultImage.jpg?raw=true",
+      "description": [
+        "Best choice for your baby",
+        "fresh smell",
+        "no side effect"
+      ],
+      "isTopSale": true,
+      "isDiscount": false,
+      "isStockStatus": true,
+      "isCheapSale": false,
+      "isNewProduct": true
     }
   ]
 }
