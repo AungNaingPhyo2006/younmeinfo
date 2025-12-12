@@ -1,4 +1,5 @@
-[
+{
+  "articles": [
   {
     "id": "1",
     "title": "Morning at the Bodhi Tree",
@@ -66,3 +67,4 @@
     ]
   }
 ]
+}
