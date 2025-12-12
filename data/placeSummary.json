@@ -1,0 +1,19 @@
+{
+  "places":[
+  {
+    "id": "1",
+    "title": "Bodh Gaya",
+    "description": "The most sacred site for Buddhists, with stupas and monasteries."
+  },
+  {
+    "id": "2",
+    "title": "Shwedagon Pagoda",
+    "description": "Myanmar’s most iconic golden pagoda standing atop Singuttara Hill."
+  },
+  {
+    "id": "3",
+    "title": "Bagan",
+    "description": "Ancient city with thousands of historic temples and pagodas."
+  }
+]
+}
