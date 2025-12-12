@@ -21,7 +21,8 @@
         "caption": "The sacred Bodhi Tree where Buddha attained enlightenment",
          "afterParagraph": 3
       }
-    ]
+    ], 
+    "mainImage" : "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image9.jpg?raw=true"
   },
   {
     "id": "2",
@@ -44,7 +45,8 @@
         "caption": "Pilgrims offering prayers and candles"
          "afterParagraph": 0
       }
-    ]
+    ],
+    "mainImage" : "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image9.jpg?raw=true"
   },
   {
     "id": "3",
@@ -67,7 +69,8 @@
         "caption": "Ananda Temple, one of Bagan’s most iconic temples",
          "afterParagraph": 2
       }
-    ]
+    ],
+    "mainImage" : "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image9.jpg?raw=true"
   }
 ]
 }
