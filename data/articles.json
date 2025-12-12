@@ -10,6 +10,16 @@
       "I woke before dawn and walked to the Bodhi Tree, noticing small acts of devotion and the slow shift of light into morning.",
       "I woke before dawn and walked to the Bodhi Tree, noticing small acts of devotion and the slow shift of light into morning.",
       "I woke before dawn and walked to the Bodhi Tree, noticing small acts of devotion and the slow shift of light into morning."
+    ],
+    "images": [
+      {
+        "url": "https://example.com/morning_bodhi_1.jpg",
+        "caption": "Quiet morning under the Bodhi Tree"
+      },
+      {
+        "url": "https://example.com/morning_bodhi_2.jpg",
+        "caption": "Soft sunlight filtering through sacred leaves"
+      }
     ]
   },
   {
@@ -22,6 +32,16 @@
       "Planning a pilgrim's route emphasizes rhythm and rest over distance; arrange time for reflection and open discoveries.",
       "Planning a pilgrim's route emphasizes rhythm and rest over distance; arrange time for reflection and open discoveries.",
       "Planning a pilgrim's route emphasizes rhythm and rest over distance; arrange time for reflection and open discoveries."
+    ],
+    "images": [
+      {
+        "url": "https://example.com/pilgrims_route_1.jpg",
+        "caption": "A peaceful path walked by pilgrims for centuries"
+      },
+      {
+        "url": "https://example.com/pilgrims_route_2.jpg",
+        "caption": "Travelers pausing for mindful reflection"
+      }
     ]
   },
   {
@@ -33,6 +53,16 @@
       "Local flavors are modest and nourishing: dhabas and family eateries serve simple dishes that sustain travel and conversation.",
       "Local flavors are modest and nourishing: dhabas and family eateries serve simple dishes that sustain travel and conversation.",
       "Local flavors are modest and nourishing: dhabas and family eateries serve simple dishes that sustain travel and conversation."
+    ],
+    "images": [
+      {
+        "url": "https://example.com/local_flavors_1.jpg",
+        "caption": "Simple and warm meals enjoyed by travelers"
+      },
+      {
+        "url": "https://example.com/local_flavors_2.jpg",
+        "caption": "A small family-run eatery serving traditional dishes"
+      }
     ]
   }
 ]
