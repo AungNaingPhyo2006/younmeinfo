@@ -15,11 +15,13 @@
     "images": [
       {
         "url": "https://example.com/morning_bodhi_1.jpg",
-        "caption": "Quiet morning under the Bodhi Tree"
+        "caption": "Quiet morning under the Bodhi Tree",
+        "afterParagraph": 1
       },
       {
         "url": "https://example.com/morning_bodhi_2.jpg",
-        "caption": "Soft sunlight filtering through sacred leaves"
+        "caption": "Soft sunlight filtering through sacred leaves",
+        "afterParagraph": 1
       }
     ]
   },
@@ -37,11 +39,13 @@
     "images": [
       {
         "url": "https://example.com/pilgrims_route_1.jpg",
-        "caption": "A peaceful path walked by pilgrims for centuries"
+        "caption": "A peaceful path walked by pilgrims for centuries",
+        "afterParagraph": 1
       },
       {
         "url": "https://example.com/pilgrims_route_2.jpg",
-        "caption": "Travelers pausing for mindful reflection"
+        "caption": "Travelers pausing for mindful reflection",
+        "afterParagraph": 2
       }
     ]
   },
@@ -58,11 +62,13 @@
     "images": [
       {
         "url": "https://example.com/local_flavors_1.jpg",
-        "caption": "Simple and warm meals enjoyed by travelers"
+        "caption": "Simple and warm meals enjoyed by travelers",
+        "afterParagraph": 3
       },
       {
         "url": "https://example.com/local_flavors_2.jpg",
-        "caption": "A small family-run eatery serving traditional dishes"
+        "caption": "A small family-run eatery serving traditional dishes",
+        "afterParagraph": 2
       }
     ]
   }
