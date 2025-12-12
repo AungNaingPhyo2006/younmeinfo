@@ -1,0 +1,19 @@
+{
+  "videoSummary":[
+  {
+    "id": "1",
+    "title": "Bodh Gaya — Guided Overview",
+    "description": "A short guided overview of Bodh Gaya and its key sites."
+  },
+  {
+    "id": "2",
+    "title": "Walking The Pilgrim's Route",
+    "description": "A travelogue covering the pilgrim route and practical tips."
+  },
+  {
+    "id": "3",
+    "title": "Local Flavors — Food Guide",
+    "description": "Short guide to local eateries and dishes to try."
+  }
+]
+}
