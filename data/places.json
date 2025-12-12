@@ -12,12 +12,14 @@
     ],
     "images": [
       {
-        "url": "https://example.com/bodhgaya1.jpg",
-        "caption": "Mahabodhi Temple illuminated at sunrise"
+        "url": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image1.jpg?raw=true",
+        "caption": "Mahabodhi Temple illuminated at sunrise",
+         "afterParagraph": 1
       },
       {
-        "url": "https://example.com/bodhgaya2.jpg",
-        "caption": "The sacred Bodhi Tree where Buddha attained enlightenment"
+        "url": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image1.jpg?raw=true",
+        "caption": "The sacred Bodhi Tree where Buddha attained enlightenment",
+         "afterParagraph": 3
       }
     ]
   },
@@ -33,12 +35,14 @@
     ],
     "images": [
       {
-        "url": "https://example.com/shwedagon1.jpg",
-        "caption": "Golden Shwedagon Pagoda at dusk"
+        "url": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image1.jpg?raw=true",
+        "caption": "Golden Shwedagon Pagoda at dusk",
+         "afterParagraph": 2
       },
       {
-        "url": "https://example.com/shwedagon2.jpg",
+        "url": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image1.jpg?raw=true",
         "caption": "Pilgrims offering prayers and candles"
+         "afterParagraph": 0
       }
     ]
   },
@@ -54,12 +58,14 @@
     ],
     "images": [
       {
-        "url": "https://example.com/bagan1.jpg",
-        "caption": "Balloons floating over Bagan temples at sunrise"
+        "url": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image1.jpg?raw=true",
+        "caption": "Balloons floating over Bagan temples at sunrise",
+         "afterParagraph": 3
       },
       {
-        "url": "https://example.com/bagan2.jpg",
-        "caption": "Ananda Temple, one of Bagan’s most iconic temples"
+        "url": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image1.jpg?raw=true",
+        "caption": "Ananda Temple, one of Bagan’s most iconic temples",
+         "afterParagraph": 2
       }
     ]
   }
