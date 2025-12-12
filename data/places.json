@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "title": "Bodh Gaya",
+    "description": "The most sacred site for Buddhists, with stupas and monasteries.",
+    "body": [
+      "Bodh Gaya invites quiet exploration and contemplative attention.",
+      "Bodh Gaya invites quiet exploration and contemplative attention."
+    ],
+    "image": "/images/maharbodhi.jpg"
+  },
+  {
+    "id": "2",
+    "title": "Rajgir",
+    "description": "Hills, hot springs, and ancient caves for reflection and hikes.",
+    "body": [
+      "Rajgir offers slow walks, quiet caves, and patient panoramas for reflection.",
+      "Rajgir offers slow walks, quiet caves, and patient panoramas for reflection.",
+      "Rajgir offers slow walks, quiet caves, and patient panoramas for reflection."
+    ],
+    "image": "/images/bodh.png"
+  },
+  {
+    "id": "3",
+    "title": "Nalanda",
+    "description": "Ruins of a historic learning center with calm grounds to explore.",
+    "body": [
+      "Nalanda's ruins reward patient attention: study, stone, and shaded courtyards invite long visits.",
+      "Nalanda's ruins reward patient attention: study, stone, and shaded courtyards invite long visits.",
+      "Nalanda's ruins reward patient attention: study, stone, and shaded courtyards invite long visits."
+    ],
+    "image": "/images/maharbodhi.jpg"
+  },
+  {
+    "id": "4",
+    "title": "Vaishali",
+    "description": "Archaeological sites and peaceful lakes for quiet afternoons.",
+    "body": [
+      "Vaishali offers lakeside silence, dispersed ruins, and small moments of discovery along quiet lanes.",
+      "Vaishali offers lakeside silence, dispersed ruins, and small moments of discovery along quiet lanes.",
+      "Vaishali offers lakeside silence, dispersed ruins, and small moments of discovery along quiet lanes."
+    ],
+    "image": "/images/maharbodhi.jpg"
+  },
+  {
+    "id": "5",
+    "title": "Kesariya",
+    "description": "A serene town with historic stupas and gentle landscapes.",
+    "body": [
+      "Kesariya centers around a great stupa and quiet rural landscapes that reward slow exploration and reflection.",
+      "Kesariya centers around a great stupa and quiet rural landscapes that reward slow exploration and reflection.",
+      "Kesariya centers around a great stupa and quiet rural landscapes that reward slow exploration and reflection."
+    ],
+    "image": "/images/maharbodhi.jpg"
+  }
+]
