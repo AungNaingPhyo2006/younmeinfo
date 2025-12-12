@@ -1,76 +1,76 @@
 {
-  "places":[
-  {
-    "id": "1",
-    "title": "Bodh Gaya",
-    "description": "The most sacred site for Buddhists, with stupas and monasteries.",
-    "mainImage" : "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image9.jpg?raw=true",
-    "body": [
-      "Bodh Gaya is the place where Siddhartha Gautama attained enlightenment and became the Buddha.",
-      "Pilgrims from all over the world gather at the Mahabodhi Temple to meditate and pay homage.",
-      "The atmosphere is peaceful, filled with chanting, prayer wheels, and quiet devotion.",
-      "Many visitors spend time under the Bodhi Tree reflecting on mindfulness and compassion."
-    ],
-    "images": [
-      {
-        "url": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image1.jpg?raw=true",
-        "caption": "Mahabodhi Temple illuminated at sunrise",
-         "afterParagraph": 1
-      },
-      {
-        "url": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image1.jpg?raw=true",
-        "caption": "The sacred Bodhi Tree where Buddha attained enlightenment",
-         "afterParagraph": 3
-      }
-    ]
-  },
-  {
-    "id": "2",
-    "title": "Shwedagon Pagoda",
-    "description": "Myanmar’s most iconic golden pagoda standing atop Singuttara Hill.",
-    "mainImage" : "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image9.jpg?raw=true",
-    "body": [
-      "Shwedagon Pagoda is believed to enshrine holy relics of four Buddhas.",
-      "Its massive golden stupa dominates the Yangon skyline and shines brightest at sunset.",
-      "Pilgrims light candles, offer flowers, and walk clockwise around the platform.",
-      "The pagoda grounds are filled with shrines, statues, and chanting monks."
-    ],
-    "images": [
-      {
-        "url": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image1.jpg?raw=true",
-        "caption": "Golden Shwedagon Pagoda at dusk",
-         "afterParagraph": 2
-      },
-      {
-        "url": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image1.jpg?raw=true",
-        "caption": "Pilgrims offering prayers and candles"
-         "afterParagraph": 0
-      }
-    ]
-  },
-  {
-    "id": "3",
-    "title": "Bagan",
-    "description": "Ancient city with thousands of historic temples and pagodas.",
-    "mainImage" : "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image9.jpg?raw=true",
-    "body": [
-      "Bagan was once the capital of the Pagan Kingdom, home to over 10,000 temples.",
-      "Today, more than 2,000 temples remain spread across a wide plain.",
-      "Travelers explore the area by e-bike or hot air balloon during sunrise.",
-      "The temples reflect Myanmar’s rich cultural and spiritual history."
-    ],
-    "images": [
-      {
-        "url": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image1.jpg?raw=true",
-        "caption": "Balloons floating over Bagan temples at sunrise",
-         "afterParagraph": 3
-      },
-      {
-        "url": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image1.jpg?raw=true",
-        "caption": "Ananda Temple, one of Bagan’s most iconic temples",
-         "afterParagraph": 2
-      }
-    ]
-  }
-]
+  "places": [
+    {
+      "id": "1",
+      "title": "Bodh Gaya",
+      "description": "The most sacred site for Buddhists, with stupas and monasteries.",
+      "mainImage": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image9.jpg?raw=true",
+      "body": [
+        "Bodh Gaya is the place where Siddhartha Gautama attained enlightenment and became the Buddha.",
+        "Pilgrims from all over the world gather at the Mahabodhi Temple to meditate and pay homage.",
+        "The atmosphere is peaceful, filled with chanting, prayer wheels, and quiet devotion.",
+        "Many visitors spend time under the Bodhi Tree reflecting on mindfulness and compassion."
+      ],
+      "images": [
+        {
+          "url": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image1.jpg?raw=true",
+          "caption": "Mahabodhi Temple illuminated at sunrise",
+          "afterParagraph": 1
+        },
+        {
+          "url": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image1.jpg?raw=true",
+          "caption": "The sacred Bodhi Tree where Buddha attained enlightenment",
+          "afterParagraph": 3
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Shwedagon Pagoda",
+      "description": "Myanmar’s most iconic golden pagoda standing atop Singuttara Hill.",
+      "mainImage": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image9.jpg?raw=true",
+      "body": [
+        "Shwedagon Pagoda is believed to enshrine holy relics of four Buddhas.",
+        "Its massive golden stupa dominates the Yangon skyline and shines brightest at sunset.",
+        "Pilgrims light candles, offer flowers, and walk clockwise around the platform.",
+        "The pagoda grounds are filled with shrines, statues, and chanting monks."
+      ],
+      "images": [
+        {
+          "url": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image1.jpg?raw=true",
+          "caption": "Golden Shwedagon Pagoda at dusk",
+          "afterParagraph": 2
+        },
+        {
+          "url": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image1.jpg?raw=true",
+          "caption": "Pilgrims offering prayers and candles",
+          "afterParagraph": 0
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Bagan",
+      "description": "Ancient city with thousands of historic temples and pagodas.",
+      "mainImage": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image9.jpg?raw=true",
+      "body": [
+        "Bagan was once the capital of the Pagan Kingdom, home to over 10,000 temples.",
+        "Today, more than 2,000 temples remain spread across a wide plain.",
+        "Travelers explore the area by e-bike or hot air balloon during sunrise.",
+        "The temples reflect Myanmar’s rich cultural and spiritual history."
+      ],
+      "images": [
+        {
+          "url": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image1.jpg?raw=true",
+          "caption": "Balloons floating over Bagan temples at sunrise",
+          "afterParagraph": 3
+        },
+        {
+          "url": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image1.jpg?raw=true",
+          "caption": "Ananda Temple, one of Bagan’s most iconic temples",
+          "afterParagraph": 2
+        }
+      ]
+    }
+  ]
 }
