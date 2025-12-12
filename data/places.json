@@ -4,6 +4,7 @@
     "id": "1",
     "title": "Bodh Gaya",
     "description": "The most sacred site for Buddhists, with stupas and monasteries.",
+    "mainImage" : "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image9.jpg?raw=true",
     "body": [
       "Bodh Gaya is the place where Siddhartha Gautama attained enlightenment and became the Buddha.",
       "Pilgrims from all over the world gather at the Mahabodhi Temple to meditate and pay homage.",
@@ -21,13 +22,13 @@
         "caption": "The sacred Bodhi Tree where Buddha attained enlightenment",
          "afterParagraph": 3
       }
-    ], 
-    "mainImage" : "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image9.jpg?raw=true"
+    ]
   },
   {
     "id": "2",
     "title": "Shwedagon Pagoda",
     "description": "Myanmar’s most iconic golden pagoda standing atop Singuttara Hill.",
+    "mainImage" : "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image9.jpg?raw=true",
     "body": [
       "Shwedagon Pagoda is believed to enshrine holy relics of four Buddhas.",
       "Its massive golden stupa dominates the Yangon skyline and shines brightest at sunset.",
@@ -45,13 +46,13 @@
         "caption": "Pilgrims offering prayers and candles"
          "afterParagraph": 0
       }
-    ],
-    "mainImage" : "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image9.jpg?raw=true"
+    ]
   },
   {
     "id": "3",
     "title": "Bagan",
     "description": "Ancient city with thousands of historic temples and pagodas.",
+    "mainImage" : "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image9.jpg?raw=true",
     "body": [
       "Bagan was once the capital of the Pagan Kingdom, home to over 10,000 temples.",
       "Today, more than 2,000 temples remain spread across a wide plain.",
@@ -69,8 +70,7 @@
         "caption": "Ananda Temple, one of Bagan’s most iconic temples",
          "afterParagraph": 2
       }
-    ],
-    "mainImage" : "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image9.jpg?raw=true"
+    ]
   }
 ]
 }
