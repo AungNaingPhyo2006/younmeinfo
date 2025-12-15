@@ -3,17 +3,20 @@
   {
     "id": "1",
     "title": "Bodh Gaya",
-    "description": "The most sacred site for Buddhists, with stupas and monasteries."
+    "description": "The most sacred site for Buddhists, with stupas and monasteries.",
+    "mainImage": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image9.jpg?raw=true"
   },
   {
     "id": "2",
     "title": "Shwedagon Pagoda",
-    "description": "Myanmar’s most iconic golden pagoda standing atop Singuttara Hill."
+    "description": "Myanmar’s most iconic golden pagoda standing atop Singuttara Hill.",
+    "mainImage": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image9.jpg?raw=true"
   },
   {
     "id": "3",
     "title": "Bagan",
-    "description": "Ancient city with thousands of historic temples and pagodas."
+    "description": "Ancient city with thousands of historic temples and pagodas.",
+    "mainImage": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image9.jpg?raw=true"
   }
 ]
 }
