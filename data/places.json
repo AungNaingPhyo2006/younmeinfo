@@ -1,30 +1,6 @@
 {
   "places": [
     {
-      "id": "2",
-      "title": "Shwedagon Pagoda",
-      "description": "Myanmar’s most iconic golden pagoda standing atop Singuttara Hill.",
-      "mainImage": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image9.jpg?raw=true",
-      "body": [
-        "Shwedagon Pagoda is believed to enshrine holy relics of four Buddhas.",
-        "Its massive golden stupa dominates the Yangon skyline and shines brightest at sunset.",
-        "Pilgrims light candles, offer flowers, and walk clockwise around the platform.",
-        "The pagoda grounds are filled with shrines, statues, and chanting monks."
-      ],
-      "images": [
-        {
-          "url": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image1.jpg?raw=true",
-          "caption": "Golden Shwedagon Pagoda at dusk",
-          "afterParagraph": 2
-        },
-        {
-          "url": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image1.jpg?raw=true",
-          "caption": "Pilgrims offering prayers and candles",
-          "afterParagraph": 0
-        }
-      ]
-    },
-    {
       "id": "3",
       "title": " မြတ်ဗုဒ္ဓပွင့်ရာ မဟာဗောဓိပင် ",
       "description": "ဗုဒ္ဓ၏ ဓမ္မဓာတ်များ ကိန်းဝပ်ရာနေရာ ။ ",
