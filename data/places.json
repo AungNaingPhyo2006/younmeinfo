@@ -1,30 +1,6 @@
 {
   "places": [
     {
-      "id": "1",
-      "title": "Bodh Gaya",
-      "description": "The most sacred site for Buddhists, with stupas and monasteries.",
-      "mainImage": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image9.jpg?raw=true",
-      "body": [
-        "Bodh Gaya is the place where Siddhartha Gautama attained enlightenment and became the Buddha.",
-        "Pilgrims from all over the world gather at the Mahabodhi Temple to meditate and pay homage.",
-        "The atmosphere is peaceful, filled with chanting, prayer wheels, and quiet devotion.",
-        "Many visitors spend time under the Bodhi Tree reflecting on mindfulness and compassion."
-      ],
-      "images": [
-        {
-          "url": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image1.jpg?raw=true",
-          "caption": "Mahabodhi Temple illuminated at sunrise",
-          "afterParagraph": 1
-        },
-        {
-          "url": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/images/image1.jpg?raw=true",
-          "caption": "The sacred Bodhi Tree where Buddha attained enlightenment",
-          "afterParagraph": 3
-        }
-      ]
-    },
-    {
       "id": "2",
       "title": "Shwedagon Pagoda",
       "description": "Myanmar’s most iconic golden pagoda standing atop Singuttara Hill.",
