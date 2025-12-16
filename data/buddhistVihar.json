@@ -3,7 +3,7 @@
   "vihars": [
     {
       "id": 1,
-      "name": "Bataik Vihar",
+      "title": "Bataik Vihar",
       "remark" : "မြန်မာကျောင်း",
       "address": "Bataik Village, Yangon, Myanmar",
       "phoneNo": "+95 9 123 456 789",
@@ -13,7 +13,7 @@
     },
     {
       "id": 2,
-      "name": "Lungi Vihar",
+      "title": "Lungi Vihar",
       "remark" : "မြန်မာကျောင်း",
       "address": "Lungi Township, Mandalay, Myanmar",
       "phoneNo": "+95 9 987 654 321",
