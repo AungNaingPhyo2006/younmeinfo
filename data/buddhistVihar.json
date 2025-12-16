@@ -1,7 +1,7 @@
 {
   "vihars": [
     {
-      "id": "1",
+      "id": 1,
       "title": "Bataik Vihar",
       "remark": "မြန်မာကျောင်း",
       "address": "Bataik Village, Yangon, Myanmar",
@@ -17,22 +17,12 @@
       ]
     },
     {
-      "id": "2",
+      "id": 2,
       "title": "Lungi Vihar",
       "remark": "မြန်မာကျောင်း",
       "address": "Lungi Township, Mandalay, Myanmar",
       "phoneNo": "+95 9 987 654 321",
       "location": "21.9588,96.0891",
-      "body": [],
-      "nearestPlaces": []
-    },
-    {
-      "id": "3",
-      "title": "Chann Maye Sandi Myanmar Buddhist Temple",
-      "remark": "မြန်မာကျောင်း",
-      "address": "PX3Q+438, Sujata Bypass Rd, Bhagalpur, Bodh Gaya, Bihar 824231, India",
-      "phoneNo": "",
-      "location": "https://www.google.com/maps/place/Chann+Maye+Sandi+Myanmar+Buddhist+Temple/@24.6965074,84.9855867,4638m/data=!3m1!1e3!4m6!3m5!1s0x39f32c675ac96f5f:0xca2fec5e1c46fca8!8m2!3d24.7027941!4d84.9876997!16s%2Fg%2F11ggplg5rb?authuser=0&entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoASAFQAw%3D%3D",
       "body": [],
       "nearestPlaces": []
     }
