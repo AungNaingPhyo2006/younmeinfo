@@ -104,6 +104,23 @@
           "afterParagraph": 5
         }
       ]
+    },
+    {
+      "id": "5",
+      "title": "buddha way",
+      "author": "anp",
+      "excerpt": "this is buddha way",
+      "time": "Dec 16, 2025",
+      "body": [
+        "The is buddh way"
+      ],
+      "images": [
+        {
+          "url": "",
+          "caption": "",
+          "afterParagraph": 0
+        }
+      ]
     }
   ]
 }
