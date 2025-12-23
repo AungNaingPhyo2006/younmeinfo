@@ -52,7 +52,7 @@
       "address": "PX2V+JJ3, Bodh Gaya, Bihar 824231, India",
       "phoneNo": "",
       "location": "https://www.google.com/maps/place/Burmese+Monastery(%E1%80%99%E1%80%BC%E1%80%94%E1%80%BA%E1%80%99%E1%80%AC%E1%80%80%E1%80%BB%E1%80%B1%E1%80%AC%E1%80%84%E1%80%BA%E1%80%B8)/@24.7014717,84.9938581,86m/data=!3m1!1e3!4m6!3m5!1s0x39f32d49c9616df9:0x631e089dcf0cfa6!8m2!3d24.701506!4d84.9940337!16s%2Fg%2F11s7400845?authuser=0&entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoASAFQAw%3D%3D",
-      "body": [ 
+      "body": [
         "Nice and peaceful place",
         "clean place"
       ],
@@ -86,7 +86,9 @@
         "Nice and peaceful place",
         "clean place"
       ],
-      "nearestPlaces": ["မဟာဗောဓိစေတီတော်"]
+      "nearestPlaces": [
+        "မဟာဗောဓိစေတီတော်"
+      ]
     },
     {
       "id": "7",
@@ -102,6 +104,16 @@
       "nearestPlaces": [
         "မဟာဗောဓိစေတီတော်"
       ]
+    },
+    {
+      "id": "8",
+      "title": "Ratanaghara Buddhist Maynmar Temple",
+      "remark": "ရတနဃရ မြန်မာကျောင်း",
+      "address": "PX7M+PG4, Bodh Gaya, Bihar 823004, India",
+      "phoneNo": "+918084726510",
+      "location": "https://www.google.com/maps/place/Ratanaghara+Buddhist+Maynmar+Temple/@24.714238,84.983971,83m/data=!3m1!1e3!4m6!3m5!1s0x39f32de1c7548ce7:0xff469c4ce2e5646a!8m2!3d24.7142662!4d84.9838212!16s%2Fg%2F11h4mp_hs1?authuser=0&entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoASAFQAw%3D%3D",
+      "body": [],
+      "nearestPlaces": []
     }
   ]
 }
