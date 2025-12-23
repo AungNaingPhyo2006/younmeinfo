@@ -67,6 +67,16 @@
       "nearestPlaces": [
         "မဟာဗောဓိစေတီတော်"
       ]
+    },
+    {
+      "id": "6",
+      "title": "Myanmar Buddhist Academic Center",
+      "remark": "မြန်မာ ဗုဒ္ဓဘာသာ ပညာရေး ဗိမာန်တော် ",
+      "address": "MXWC+5PM, Mohuabad, Bodh Gaya, Bihar 824231, India",
+      "phoneNo": "",
+      "location": "https://www.google.com/maps/place/Myanmar+Buddhist+Academic+Center/@24.6927563,84.9720952,2484m/data=!3m1!1e3!4m6!3m5!1s0x39f32d368eb7bc8f:0xdefd8ea1f2fa40b6!8m2!3d24.695456!4d84.9717928!16s%2Fg%2F11rvjgtm0j?authuser=0&entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoASAFQAw%3D%3D",
+      "body": [],
+      "nearestPlaces": []
     }
   ]
 }
