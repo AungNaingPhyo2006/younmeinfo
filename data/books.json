@@ -1,0 +1,16 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "Learning React",
+      "author": "Aung Naing Phyo",
+      "pdfUrl": "https://raw.githubusercontent.com/username/repo/main/pdfs/learning-react.pdf"
+    },
+    {
+      "id": "2",
+      "title": "JavaScript Essentials",
+      "author": "John Doe",
+      "pdfUrl": "https://raw.githubusercontent.com/username/repo/main/pdfs/javascript-essentials.pdf"
+    }
+  ]
+}
