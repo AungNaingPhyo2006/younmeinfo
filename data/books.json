@@ -2,15 +2,15 @@
   "books": [
     {
       "id": "1",
-      "title": "Learning React",
-      "author": "Aung Naing Phyo",
-      "pdfUrl": "https://raw.githubusercontent.com/username/repo/main/pdfs/learning-react.pdf"
+      "title": "ထေရဝါဒဒဿန",
+      "author": "UHtayHlaing",
+      "pdfUrl": "https://drive.google.com/file/d/1nOsili_1vT9JaFpJT0LT8KlIwwOL1AKy/view?usp=sharing"
     },
     {
       "id": "2",
-      "title": "JavaScript Essentials",
-      "author": "John Doe",
-      "pdfUrl": "https://raw.githubusercontent.com/username/repo/main/pdfs/javascript-essentials.pdf"
+      "title": "ဒဿနပါရဂူကျမ်း",
+      "author": "UHtayHlaing",
+      "pdfUrl": "https://drive.google.com/file/d/11WxTEfjOoA3t4ioR-QQyVQMhr_-T7zWv/view?usp=sharing"
     }
   ]
 }
