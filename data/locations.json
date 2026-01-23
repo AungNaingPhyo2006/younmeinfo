@@ -2,14 +2,14 @@
   "locations": [
     {
       "id": "1",
-      "title": "Bodh Gaya",
-      "lat": 24.6950,
-      "long": 84.9910,
-      "district": "Gaya, Bihar",
+      "title": "Mayadevi Temple",
+      "lat": 27.4692744,
+      "long": 83.2783004,
+      "district": "Nepal",
       "routes": [
         {
           "from": "Gaya",
-          "to": "Bodh Gaya",
+          "to": "Mayadevi Temple",
           "distanceKm": 16,
           "distanceMiles": 10
         }
