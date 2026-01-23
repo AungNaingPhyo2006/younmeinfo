@@ -257,6 +257,16 @@
       ],
       "images": [
         {
+          "url": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/buddha/Uruvela/uruvela8.jpeg?raw=true",
+          "caption": "ဘုရားလောင်း ရွှေခွက်မျှောတော်မူရာ နေရဉ္ဇရာမြစ်",
+          "afterParagraph": 3
+        },
+        {
+          "url": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/buddha/Uruvela/uruvela9.jpeg?raw=true",
+          "caption": "ဘုရားလောင်း ရွှေခွက်မျှောတော်မူရာ နေရဉ္ဇရာမြစ်",
+          "afterParagraph": 3
+        },
+        {
           "url": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/buddha/Uruvela/uruvela1.jpeg?raw=true",
           "caption": "ဘုရားလောင်း ဒုက္ကရစရိယာကျင့်တော်မူဟန်ရုပ်ပွားတော်",
           "afterParagraph": 5
@@ -267,17 +277,22 @@
           "afterParagraph": 6
         },
         {
+          "url": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/buddha/Uruvela/uruvela0.jpg?raw=true",
+          "caption": "သေနာနိဂုံး",
+          "afterParagraph": 7
+        },
+        {
           "url": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/buddha/Uruvela/uruvela3.jpeg?raw=true",
           "caption": "သုဇာတာ ဃနာနို့ဆွမ်းကပ်လှူနေဟန်",
           "afterParagraph": 7
         },
         {
-          "url": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/buddha/Uruvela/uruvela4.jpeg?raw=true",
+          "url": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/buddha/Uruvela/uruvela4.jpg?raw=true",
           "caption": "သုဇာတာ ဃနာနို့ဆွမ်းကပ်လှူရာ နေရာ",
           "afterParagraph": 8
         },
         {
-          "url": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/buddha/Uruvela/uruvela5.jpeg?raw=true",
+          "url": "https://github.com/AungNaingPhyo2006/younmeinfo/blob/main/buddha/Uruvela/uruvela5.jpg?raw=true",
           "caption": "သုဇာတာ အိမ်တော်ရာ စေတီ",
           "afterParagraph": 10
         },
