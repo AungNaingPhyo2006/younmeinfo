@@ -139,7 +139,26 @@
       "long": "77.7370686",
       "url": "https://www.google.com/maps/place/Sanchi+Stupa+No.1/@23.474975,77.7370686,2272m/data=!3m1!1e3!4m6!3m5!1s0x397c0f0187f0b81b:0xf7cb87fbbf090027!8m2!3d23.479375!4d77.7396595!16s%2Fg%2F11j3ty9h42?authuser=0&entry=ttu&g_ep=EgoyMDI2MDEyMS4wIKXMDSoASAFQAw%3D%3D",
       "district": "FPHQ+QV3, Sanchi, Madhya Pradesh 464661, India",
-      "routes": []
+      "routes": [
+        {
+          "from": "Varanasi",
+          "to": "Sanchi ",
+          "distanceKm": 648,
+          "distanceMiles": 402.65
+        },
+        {
+          "from": "Delhi",
+          "to": "Sanchi",
+          "distanceKm": 689,
+          "distanceMiles": 428.12
+        },
+        {
+          "from": "Gaya",
+          "to": "Sanchi",
+          "distanceKm": 854,
+          "distanceMiles": 530.65
+        }
+      ]
     }
   ]
 }
