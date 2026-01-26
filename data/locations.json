@@ -109,13 +109,13 @@
       "routes": [
         {
           "from": "Patna",
-          "to": "Maharbodhi Temp - Gaya",
+          "to": "Maharbodhi Temple",
           "distanceKm": 116,
           "distanceMiles": 72
         },
         {
           "from": "Kolkata",
-          "to": "Maharbodhi Temp - Gaya",
+          "to": "Maharbodhi Temple",
           "distanceKm": 480,
           "distanceMiles": 298
         }
@@ -131,7 +131,7 @@
       "district": "Gaya,Bihar",
       "routes": [
         {
-          "from": "Bodh Gaya Bus Stand",
+          "from": "Gaya Bus Stand",
           "to": "Sujata Temple",
           "distanceKm": 3,
           "distanceMiles": 1.8
@@ -154,7 +154,7 @@
       "district": "Bihar",
       "routes": [
         {
-          "from": "Bodh Gaya Bus Stand",
+          "from": "Gaya Bus Stand",
           "to": "Sujata Temple",
           "distanceKm": 3,
           "distanceMiles": 1.8
