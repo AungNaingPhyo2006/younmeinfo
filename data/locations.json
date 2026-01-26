@@ -10,16 +10,22 @@
       "district": "Nepal",
       "routes": [
         {
-          "from": "Gaya",
-          "to": "Mayadevi Temple",
-          "distanceKm": 16,
-          "distanceMiles": 10
+          "from": "Gorakhpur",
+          "to": "Sonauli",
+          "distanceKm": 95,
+          "distanceMiles": 59
         },
         {
           "from": "Sonauli",
-          "to": "Mayadevi Temple",
-          "distanceKm": 22,
-          "distanceMiles": 16
+          "to": "Bhairahawa(Siddharthanagar)",
+          "distanceKm": 4,
+          "distanceMiles": 2
+        },
+        {
+          "from": "Bhairahawa",
+          "to": "Lumbini (Mayadevi Temple)",
+          "distanceKm": 30,
+          "distanceMiles": 18
         }
       ]
     },
@@ -33,16 +39,16 @@
       "district": "Sarnath, Varanasi, Uttar Pradesh",
       "routes": [
         {
-          "from": "Bodh Gaya",
+          "from": "Gaya",
           "to": "Varanasi",
-          "distanceKm": 78,
-          "distanceMiles": 48
+          "distanceKm": 15,
+          "distanceMiles": 9
         },
         {
-          "from": "Patna",
-          "to": "Varanasi",
-          "distanceKm": 178,
-          "distanceMiles": 148
+          "from": "Varanasi",
+          "to": "Sarnath",
+          "distanceKm": 260,
+          "distanceMiles": 161
         }
       ]
     },
@@ -57,9 +63,15 @@
       "routes": [
         {
           "from": "Gaya",
+          "to": "Varanasi",
+          "distanceKm": 15,
+          "distanceMiles": 9
+        },
+        {
+          "from": "Varanasi",
           "to": "Sarnath",
-          "distanceKm": 12,
-          "distanceMiles": 7.5
+          "distanceKm": 260,
+          "distanceMiles": 161
         }
       ]
     },
@@ -73,10 +85,16 @@
       "district": "Sarnath,Varanasi, Uttar Pradesh",
       "routes": [
         {
-          "from": "Bodh Gaya",
+          "from": "Gaya",
+          "to": "Varanasi",
+          "distanceKm": 15,
+          "distanceMiles": 9
+        },
+        {
+          "from": "Varanasi",
           "to": "Sarnath",
-          "distanceKm": 250,
-          "distanceMiles": 155
+          "distanceKm": 260,
+          "distanceMiles": 161
         }
       ]
     },
@@ -90,10 +108,16 @@
       "district": "Bodhgaya, Bihar",
       "routes": [
         {
-          "from": "Sarnath",
-          "to": "Bodhgaya",
-          "distanceKm": 275,
-          "distanceMiles": 171
+          "from": "Patna",
+          "to": "Maharbodhi Temp - Gaya",
+          "distanceKm": 116,
+          "distanceMiles": 72
+        },
+        {
+          "from": "Kolkata",
+          "to": "Maharbodhi Temp - Gaya",
+          "distanceKm": 480,
+          "distanceMiles": 298
         }
       ]
     },
@@ -107,10 +131,16 @@
       "district": "Gaya,Bihar",
       "routes": [
         {
-          "from": "Mahar Bodhi Temple",
+          "from": "Bodh Gaya Bus Stand",
           "to": "Sujata Temple",
-          "distanceKm": 170,
-          "distanceMiles": 106
+          "distanceKm": 3,
+          "distanceMiles": 1.8
+        },        
+        {
+          "from": "Gaya Station",
+          "to": "Sujata Temple",
+          "distanceKm": 17,
+          "distanceMiles": 10
         }
       ]
     },
@@ -124,10 +154,16 @@
       "district": "Bihar",
       "routes": [
         {
-          "from": "Mahar Bodhi Temple",
-          "to": "Buddha Bowl Floating Temple",
-          "distanceKm": 75,
-          "distanceMiles": 47
+          "from": "Bodh Gaya Bus Stand",
+          "to": "Sujata Temple",
+          "distanceKm": 3,
+          "distanceMiles": 1.8
+        },        
+        {
+          "from": "Gaya Station",
+          "to": "Sujata Temple",
+          "distanceKm": 17,
+          "distanceMiles": 10
         }
       ]
     },
