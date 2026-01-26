@@ -124,7 +124,7 @@
     {
       "id": "6",
       "title": "သုဇာတာ ဃနာနို့ဆွမ်းကပ်လှူရာ(Sujata Temple)",
-      "desc": "ဘုရားလောင်းအား သူဌေးသမီး သုဇာတာ ဃနာနို့ဆွမ်းကပ်လှူရာ",
+      "desc": "Sujata Temple သည် Bodh Gaya အနီး  Bakraur ရွာ တွင် တည်ရှိပြီး Phalgu မြစ် တစ်ဘက်ကမ်းတွင် ရှိသည်  ။ လမ်းလျှောက်၍ ဖြစ်စေ အငှားယာဥ်ဖြင့်ဖြစ်စေ လွယ်ကူစွာ သွားရောက်နိုင်သည်။",
       "lat": 24.6960939,
       "long": 85.0079973,
       "url": "https://www.google.com/maps/place/Sujata+Temple+Bakraur+Village/@24.6961157,84.9991111,1333m/data=!3m1!1e3!4m10!1m2!2m1!1sSujata+Temple!3m6!1s0x39f32d07fd2fd0af:0xee1eb73e5637497e!8m2!3d24.6961157!4d85.0081233!15sCg1TdWphdGEgVGVtcGxlWg8iDXN1amF0YSB0ZW1wbGWSAQ9idWRkaGlzdF90ZW1wbGWaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVUnVkbEJQTjJwblJSQULgAQD6AQUIqQQQSQ!16s%2Fg%2F11ft21lt56?hl=en-US&entry=ttu&g_ep=EgoyMDI2MDEyMC4wIKXMDSoASAFQAw%3D%3D",
@@ -135,7 +135,7 @@
           "to": "Sujata Temple",
           "distanceKm": 3,
           "distanceMiles": 1.8
-        },        
+        },
         {
           "from": "Gaya Station",
           "to": "Sujata Temple",
@@ -158,7 +158,7 @@
           "to": "Sujata Temple",
           "distanceKm": 3,
           "distanceMiles": 1.8
-        },        
+        },
         {
           "from": "Gaya Station",
           "to": "Sujata Temple",
