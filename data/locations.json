@@ -62,14 +62,14 @@
       "district": "Sarnath, Varanasi, Uttar Pradesh",
       "routes": [
         {
-          "from": "Gaya",
-          "to": "Varanasi",
+          "from": "Varanasi",
+          "to": "Sarnath",
           "distanceKm": 15,
           "distanceMiles": 9
         },
         {
-          "from": "Varanasi",
-          "to": "Sarnath",
+          "from": "Gaya",
+          "to": "Varanasi",
           "distanceKm": 260,
           "distanceMiles": 161
         }
@@ -85,14 +85,14 @@
       "district": "Sarnath,Varanasi, Uttar Pradesh",
       "routes": [
         {
-          "from": "Gaya",
-          "to": "Varanasi",
+          "from": "Varanasi",
+          "to": "Sarnath",
           "distanceKm": 15,
           "distanceMiles": 9
         },
         {
-          "from": "Varanasi",
-          "to": "Sarnath",
+          "from": "Gaya",
+          "to": "Varanasi",
           "distanceKm": 260,
           "distanceMiles": 161
         }
