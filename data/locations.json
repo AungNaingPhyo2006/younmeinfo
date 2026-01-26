@@ -10,20 +10,20 @@
       "district": "Nepal",
       "routes": [
         {
-          "from": "Gorakhpur",
-          "to": "Sonauli",
+          "from": "Gorakhpur(ဂေါရက္ခပူရ်)",
+          "to": "Sonauli(ဆိုနောလီ)",
           "distanceKm": 95,
           "distanceMiles": 59
         },
         {
-          "from": "Sonauli",
-          "to": "Bhairahawa(Siddharthanagar)",
+          "from": "Sonauli(ဆိုနောလီ)",
+          "to": "Bhairahawa(ဘိုင်ရာဟဝါ)-Siddharthanagar(သိဒ္ဓတ္ထနဂရ)",
           "distanceKm": 4,
           "distanceMiles": 2
         },
         {
-          "from": "Bhairahawa",
-          "to": "Lumbini (Mayadevi Temple)",
+          "from": "Bhairahawa(ဘိုင်ရာဟဝါ)",
+          "to": "Lumbini (လုမ္ဗိနီ)",
           "distanceKm": 30,
           "distanceMiles": 18
         }
@@ -39,14 +39,14 @@
       "district": "Sarnath, Varanasi, Uttar Pradesh",
       "routes": [
         {
-          "from": "Varanasi",
-          "to": "Sarnath",
+          "from": "Varanasi(ဗာရာဏသီ)",
+          "to": "Sarnath(ဆာရနတ်)",
           "distanceKm": 15,
           "distanceMiles": 9
         },
         {
-          "from": "Gaya",
-          "to": "Varanasi",
+          "from": "Gaya(ဂယာ)",
+          "to": "Varanasi(ဗာရာဏသီ)",
           "distanceKm": 260,
           "distanceMiles": 161
         }
@@ -62,14 +62,14 @@
       "district": "Sarnath, Varanasi, Uttar Pradesh",
       "routes": [
         {
-          "from": "Varanasi",
-          "to": "Sarnath",
+          "from": "Varanasi(ဗာရာဏသီ)",
+          "to": "Sarnath(ဆာရနတ်)",
           "distanceKm": 15,
           "distanceMiles": 9
         },
         {
-          "from": "Gaya",
-          "to": "Varanasi",
+          "from": "Gaya(ဂယာ)",
+          "to": "Varanasi(ဗာရာဏသီ)",
           "distanceKm": 260,
           "distanceMiles": 161
         }
@@ -85,14 +85,14 @@
       "district": "Sarnath,Varanasi, Uttar Pradesh",
       "routes": [
         {
-          "from": "Varanasi",
-          "to": "Sarnath",
+          "from": "Varanasi(ဗာရာဏသီ)",
+          "to": "Sarnath(ဆာရနတ်)",
           "distanceKm": 15,
           "distanceMiles": 9
         },
         {
-          "from": "Gaya",
-          "to": "Varanasi",
+          "from": "Gaya(ဂယာ)",
+          "to": "Varanasi(ဗာရာဏသီ)",
           "distanceKm": 260,
           "distanceMiles": 161
         }
@@ -108,14 +108,14 @@
       "district": "Bodhgaya, Bihar",
       "routes": [
         {
-          "from": "Patna",
-          "to": "Maharbodhi Temple",
+          "from": "Patna(ပတ္တနား)",
+          "to": "Maharbodhi Temple(မဟာဗောဓိစေတီတော်)",
           "distanceKm": 116,
           "distanceMiles": 72
         },
         {
-          "from": "Kolkata",
-          "to": "Maharbodhi Temple",
+          "from": "Kolkata(ကာလကတ္တား)",
+          "to": "Maharbodhi Temple(မဟာဗောဓိစေတီတော်)",
           "distanceKm": 480,
           "distanceMiles": 298
         }
@@ -177,20 +177,20 @@
       "district": "FPHQ+QV3, Sanchi, Madhya Pradesh 464661, India",
       "routes": [
         {
-          "from": "Varanasi",
-          "to": "Sanchi ",
+          "from": "Varanasi(ဗာရာဏသီ)",
+          "to": "Sanchi(ဆန်ချီစေတီတော်)",
           "distanceKm": 648,
           "distanceMiles": 402.65
         },
         {
-          "from": "Delhi",
-          "to": "Sanchi",
+          "from": "Delhi(ဒေလီ)",
+          "to": "Sanchi(ဆန်ချီစေတီတော်)",
           "distanceKm": 689,
           "distanceMiles": 428.12
         },
         {
-          "from": "Gaya",
-          "to": "Sanchi",
+          "from": "Gaya(ဂယာ)",
+          "to": "Sanchi(ဆန်ချိီစေတီတော်",
           "distanceKm": 854,
           "distanceMiles": 530.65
         }
